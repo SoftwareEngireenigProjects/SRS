@@ -1,6 +1,6 @@
 # InvestEase – Software Requirements Specification (SRS)
 
-This repository contains the Software Requirements Specification (SRS) for **InvestEase**, a personal investment management platform developed as part of the CS251 – Introduction to Software Engineering course at Cairo University.
+This repository contains the Software Requirements Specification (SRS) for **InvestEase**, a personal investment management platform . 
 
 ## 📌 Project Overview
 InvestEase aims to provide users with a secure, AI-powered platform for managing their investments. It supports features like multi-asset portfolio tracking, goal-based planning, risk analysis, and integration with financial services.
